@@ -1,33 +1,25 @@
-# Hi, I'm Ashe!
+# Hi, I'm Adarsh
 
-### Student | Front-End Developer | Learning Kotlin | Linux Enthusiast
+### Student | Data Scientist | Graphic Designer
 
 ---
 
 ## About Me
 
-- 🎓 **Student** passionate about software development and technology.
-- 💻 **Front-End Developer** focusing on building clean, responsive, and user-friendly web applications.
-- 🌱 **Learning Kotlin** to expand my skills in mobile and cross-platform development.
-- 🐧 **Linux Enthusiast**, exploring the open-source ecosystem and loving the customization that Linux offers.
-  
-## What I'm Currently Working On
+- Currently pursuing studies in computer science with a focus on data science and design.  
+- Background in visual communication and user-centered design.  
+- Strong interest in the intersection of data, design, and technology.  
+- Actively exploring tools, methods, and frameworks for data analysis and visual storytelling.
 
-- Building front-end web applications using **HTML**, **CSS**, and **JavaScript**.
-- Practicing **Kotlin** for Android development.
-- Exploring **open-source** projects and contributing where I can.
-  
-## Technologies I Work With
+## Areas of Focus
 
-- **Front-End**: HTML, CSS, JavaScript, Bootstrap, Material Design
-- **Learning**: Kotlin, Android Studio
-- **Tools**: Git, VS Code, Linux (Ubuntu/Debian)
-  
-## Projects
+- **Data Science**: Data analysis, visualization, and machine learning using Python  
+- **Design**: UI/UX design for digital products, branding, and visual systems  
+- **Tools & Platforms**: Jupyter, Figma, Adobe Suite, Tableau, Git
 
-- 🖥️ Practicing building web frontends using **Material You**, **Responsive Design**, and **JavaScript** for interactivity.
-- 📱 Exploring Kotlin for mobile development by creating small Android apps as I learn.
-  
----
+## Technologies & Skills
 
-Thank You!
+- **Data Science**: Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
+- **Design**: Figma, Adobe Illustrator, Photoshop, InDesign  
+- **Web**: HTML, CSS, basic JavaScript  
+- **Workflow**: Git, Linux, VS Code, LaTeX
