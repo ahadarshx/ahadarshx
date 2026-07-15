@@ -1,19 +1,19 @@
-# 👋 Hey! Nice to see you.
+# 👋 Hey! I'm an AI & Data Science Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Data+Science+Enthusiast;UI%2FUX+Designer;AI+%26+Machine+Learning+Explorer;Building+Intelligent+and+User-Centered+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;AI+%26+Machine+Learning+Developer;Building+LLM+and+RAG+Applications;Turning+Data+into+Actionable+Insights" />
 </p>
 
-<p align="center">
-  Passionate about Data Science, Artificial Intelligence, UI/UX Design, and creating meaningful digital experiences through technology.
-</p>
+<h3 align="center">
+Building intelligent, data-driven solutions and user-centered experiences through AI, machine learning, and thoughtful design.
+</h3>
 
----
+
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,javascript,html,css,git,github,figma,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,react,javascript,html,css,figma" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
----
+
 
 ## 🎁 Featured Projects
 
@@ -33,15 +33,7 @@
 | **[Fine-Tuning LLM](https://github.com/ahadarshx/Fine-Tuning-LLM)** | Fine-tuning workflows and experiments for adapting large language models to specialized tasks and domains. |
 | **[Series Analyzer](https://github.com/ahadarshx/series_analyzer)** | Data analysis and visualization project focused on extracting insights from structured datasets. |
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahadarshx/ahadarshx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
@@ -57,10 +49,4 @@
   <a href="https://instagram.com/adrsshhx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Combining data, design, and AI to build impactful solutions.</i>
 </p>
