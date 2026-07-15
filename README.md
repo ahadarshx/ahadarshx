@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;AI+%26+Machine+Learning+Developer;Building+LLM+and+RAG+Applications;Turning+Data+into+Actionable+Insights" />
 </p>
-
 <h3 align="center">
 Building intelligent, data-driven solutions and user-centered experiences through AI, machine learning, and thoughtful design.
 </h3>
