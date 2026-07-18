@@ -4,7 +4,7 @@
 AI & Data Science Developer building intelligent applications with Machine Learning, LLMs, RAG, and Data Analytics.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahadarshx/ahadarshx/main/assets/cat.gif" width="280" alt="cat">
+  <img src="cat.gif" width="280" alt="cat">
 </p>
 
 ### 🚀 Focus Areas
