@@ -2,7 +2,7 @@
 
 <img src="cat.gif" width="180" alt="A pixel cat">
 
-# Adarsh Mishra
+# Adarsh
 
 AI and data science, shipped as products people actually use.
 
@@ -32,7 +32,7 @@ AI and data science, shipped as products people actually use.
 <tr>
 <td width="50%" valign="top">
 
-**[RAG Course Assistant](https://github.com/ahadarshx/RAG-Course-Assistant)**<br>
+**[RAG Course Assistant](https://github.com/ahadarshx/rag-course-assistant)**<br>
 A citation-first study assistant for course material. Hybrid retrieval (FAISS, BM25, cross-encoder reranking), page-level citations and strict out-of-scope refusal, on a 4-bit Qwen2.5 1.5B that runs on consumer GPUs.
 
 `RAG` `FAISS` `Qwen2.5` `Gradio`
@@ -40,7 +40,7 @@ A citation-first study assistant for course material. Hybrid retrieval (FAISS, B
 </td>
 <td width="50%" valign="top">
 
-**[QLoRA Fine-Tuned LLM](https://github.com/ahadarshx/Fine-Tuning-LLM)**<br>
+**[QLoRA Fine-Tuned LLM](https://github.com/ahadarshx/fine-tuning-llm)**<br>
 Turning a small open model into a course-specific teaching assistant on limited VRAM: data prep, synthetic instruction sets, QLoRA training, evaluation and a chat app.
 
 `QLoRA` `PEFT` `Transformers` `PyTorch`
@@ -50,7 +50,7 @@ Turning a small open model into a course-specific teaching assistant on limited 
 <tr>
 <td width="50%" valign="top">
 
-**[Series Analyzer](https://github.com/ahadarshx/series_analyzer)**<br>
+**[Series Analyzer](https://github.com/ahadarshx/series-analyzer)**<br>
 An NLP suite for TV dialogue: scraping, zero-shot theme tagging, character networks, a custom classifier and an in-character chatbot, all in one Gradio app.
 
 `spaCy` `NetworkX` `Scrapy` `Llama`
